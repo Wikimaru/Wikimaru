@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirapob</h1>
-<h3 align="center">I'm just a software developer and game developer.</h3>
+<h3 align="center">I am a software developer and game developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
